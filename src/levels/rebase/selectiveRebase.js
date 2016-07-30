@@ -47,7 +47,7 @@ exports.level = {
               "",
               "Branch `one` needs a re-ordering and a deletion of `C5`. `two` needs pure reordering, and `three` only needs one commit!",
               "",
-              "We will let you figure out how to solve this one -- make sure to check out our solution afterwards with `show solution`. "
+              "We will let you figure out how to solve this one. "
             ]
           }
         }

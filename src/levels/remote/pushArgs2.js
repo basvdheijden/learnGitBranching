@@ -16,7 +16,7 @@ exports.level = {
     "uk"   : "Розширені аргументи git push!"
   },
   "hint": {
-    "en_US": "Remember you can admit defeat and type in \"show solution\" :P",
+    "en_US": "Remember you can admit defeat :P",
     "zh_CN": "如果你失败了, 可以通过 \"show solution\" 找到解决方案 :P",
     "zh_TW": "如果你失敗了，可以利用 \"show solution\" 來找到解答:P",
     "es_AR": "Recordá que podés admitir tu derrota y tipear \"show solution\" para ver la solución :P",
