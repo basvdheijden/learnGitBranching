@@ -53,4 +53,5 @@ VendorLib/clang/lib/c++
 
 *.swp
 
-
+/slides.pptx
+/slides.pdf
